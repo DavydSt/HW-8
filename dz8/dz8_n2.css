@@ -1,0 +1,46 @@
+
+
+
+/*понеділок*/
+ul.mon{
+    color: rgb(2, 176, 176);
+}
+ul.mon:hover{
+    color: rgb(175, 175, 2);
+}
+
+/*вівторок*/
+ ul.Tue{
+    color: green;
+ }
+
+ ul.Tue:hover{
+color: purple;
+ }
+
+ /*середа*/
+ ul.Wed{
+    color: orange;
+ }
+
+ ul.Wed:hover{
+    color: blue;
+ }
+
+ /*четвер*/
+ ul.Thur{
+    color: rgb(251, 112, 251);
+ }
+
+ul.Thur:hover{
+ color: rgb(0, 128, 92);
+}
+
+/*пʼятнеця*/
+ul.Fri{
+    color: blue;
+}
+
+ul.Fri:hover{
+    color: yellow;
+}
